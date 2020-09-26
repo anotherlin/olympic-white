@@ -1,5 +1,5 @@
 Designator,Value,Description,Manufacturer Part Number,Quantity,Mouser,Package,Remarks
-"U1","TPS65131","Dual output DC/DC converter","Texas Instrument TPS65131RGER","1","595-TPS65131RGER","VQFN-24","TPS65131RGET" 
+"U1","TPS65131","Dual output DC/DC converter","Texas Instrument TPS65131RGER","1","595-TPS65131RGER","VQFN-24","TPS65131RGET"
 "D1 D2","SS12","Schottky diode 1A 20V","Vishay SS12-E3/61T","2","625-SS12-E3","SMA (DO-214AC)","generic Schottky diode"
 "Q1","Si2323DS","P-channel 20V MOSFET","Vishay Si2323DS-T1-E3","1","781-SI2323DS-T1-E3","TO-236 (SOT-23)","generic P-Channel MOSFET"
 "C1 C2","22uF/10V","ceramic capacitor","Yageo CC1206KKX5R6BB226","2","603-CC126KKX5R6BB226","1206-3216","generic X5R or X7R"
